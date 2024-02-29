@@ -13,6 +13,7 @@
 # GITHUB -> Next Time
 1. git add . or * or filename
 2. git commit -m "your message here"
+3. git push
 
 
 # BCA1SEM DART PROGRAMMING
